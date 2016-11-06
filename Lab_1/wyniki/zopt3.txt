@@ -1,0 +1,18 @@
+
+Czas wykonania 100000 operacji wejscia/wyjscia:
+ 
+czas standardowy = 0.000000
+
+czas CPU         = 0.005059
+
+czas zegarowy    = 0.005611
+
+
+Wynik operacji arytmetycznych: 1.210343
+
+
+Czas wykonania 100000 operacji arytmetycznych:
+ 
+czas CPU = 0.000201
+
+czas zegarowy = 0.000167
